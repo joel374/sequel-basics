@@ -1,0 +1,10 @@
+{
+  "expenses": [
+    { "id": 2, "name": "Bensin", "nominal": 10000, "category": "Transportasi" },
+    { "id": 3, "name": "Bensin", "nominal": 10000, "category": "Transportasi" },
+    { "id": 4, "name": "Bensin", "nominal": 10000, "category": "Transportasi" },
+    { "id": 5, "name": "VIVO", "nominal": 10900, "category": "Kendaraan" },
+    { "id": 6, "name": "Solar", "nominal": 10900, "category": "Kendaraan" },
+    { "name": "V-Power", "nominal": 18000, "category": "Transportasi", "id": 7 }
+  ]
+}
